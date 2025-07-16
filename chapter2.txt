@@ -1,2 +1,6 @@
 first edition chapter 2
+<<<<<<< HEAD
 main 2
+=======
+alien
+>>>>>>> alienScene
